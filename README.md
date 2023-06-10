@@ -7,10 +7,10 @@ EDA folder represents Exploratory data analysis - relevant files
 EAug folder represents Exploring Augmentations/Albumentations py
 
 
-Exp0 folder represents the baseline config file and evaluations
+Exp0 folder represents the baseline config file and evaluation metrics
 
 
-Exp1 folder represents the config file with data augmentations updates based on exploring augmentations
+Exp1 folder represents the config file with data augmentations updates based on exploring augmentations and evaluation metrics
 
 
 Exp2 folder represents the config file with learning rate updates - But, incomplete due to memory exhaustion
