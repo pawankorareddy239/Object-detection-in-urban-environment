@@ -1,5 +1,5 @@
 # Object-detection-in-urban-environment
-Udacity - project
+Udacity - Self driving cars project
 
 EDA folder represents Exploratory data analysis - relevant files
 
@@ -16,4 +16,4 @@ Exp1 folder represents the config file with data augmentations updates based on 
 Exp2 folder represents the config file with learning rate updates - But, incomplete due to memory exhaustion
 
 
-Outofmemory folder represents the memory exhaustion happened while trying several experiments, unusual GPU shut down and unable to retrieve the final videos
+Outofmemoryerror folder represents the memory exhaustion happened while trying several experiments, unusual GPU shut down and unable to retrieve the final videos
